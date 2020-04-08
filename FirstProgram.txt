@@ -1,0 +1,2 @@
+print("Hello World")
+# This is the code to print "Hello World" in Python.
